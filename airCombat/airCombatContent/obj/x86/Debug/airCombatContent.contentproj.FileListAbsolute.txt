@@ -1,0 +1,4 @@
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombatContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombatContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombatContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombatContent\obj\x86\Debug\airCombatContent.contentprojResolveAssemblyReference.cache

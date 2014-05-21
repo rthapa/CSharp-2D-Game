@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>enemyFinal.png</Source>
+      <Name>enemyFinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\enemyFinal.xnb</Output>
+      <Time>2013-04-09T00:48:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>glidingFinal.png</Source>
+      <Name>glidingFinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\glidingFinal.xnb</Output>
+      <Time>2013-04-09T01:58:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>planeGoodSize.png</Source>
+      <Name>planeGoodSize</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeGoodSize.xnb</Output>
+      <Time>2013-04-09T02:03:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>planeFlying.png</Source>
+      <Name>planeFlying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeFlying.xnb</Output>
+      <Time>2013-04-09T02:47:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>enemySpriteUpdated.png</Source>
+      <Name>enemySpriteUpdated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\enemySpriteUpdated.xnb</Output>
+      <Time>2013-04-09T17:44:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.png</Source>
+      <Name>laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\laser.xnb</Output>
+      <Time>2013-04-09T17:53:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainBg.png</Source>
+      <Name>mainBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainBg.xnb</Output>
+      <Time>2013-04-11T23:29:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud1.png</Source>
+      <Name>cloud1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\cloud1.xnb</Output>
+      <Time>2013-04-11T23:48:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud2.png</Source>
+      <Name>cloud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\cloud2.xnb</Output>
+      <Time>2013-04-12T00:04:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>moon.png</Source>
+      <Name>moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\moon.xnb</Output>
+      <Time>2013-04-12T00:40:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainBgUpdated.png</Source>
+      <Name>mainBgUpdated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainBgUpdated.xnb</Output>
+      <Time>2013-04-12T00:47:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>redLaser.png</Source>
+      <Name>redLaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\redLaser.xnb</Output>
+      <Time>2013-04-12T00:58:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>purpleLaser.png</Source>
+      <Name>purpleLaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\purpleLaser.xnb</Output>
+      <Time>2013-04-12T01:01:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>orangeLaser.png</Source>
+      <Name>orangeLaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\orangeLaser.xnb</Output>
+      <Time>2013-04-12T01:03:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-04-12T01:07:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2013-04-12T17:12:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rain.png</Source>
+      <Name>rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\rain.xnb</Output>
+      <Time>2013-04-12T20:15:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>playJet.png</Source>
+      <Name>playJet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\playJet.xnb</Output>
+      <Time>2013-04-13T00:03:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenuArt.png</Source>
+      <Name>mainMenuArt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainMenuArt.xnb</Output>
+      <Time>2013-04-13T00:13:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>exitJet.png</Source>
+      <Name>exitJet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\exitJet.xnb</Output>
+      <Time>2013-04-13T00:20:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionFinal.png</Source>
+      <Name>OptionFinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\OptionFinal.xnb</Output>
+      <Time>2013-04-13T01:09:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backOption.png</Source>
+      <Name>backOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\backOption.xnb</Output>
+      <Time>2013-04-13T01:11:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>help.png</Source>
+      <Name>help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\help.xnb</Output>
+      <Time>2013-04-13T16:35:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hpFrame.png</Source>
+      <Name>hpFrame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\hpFrame.xnb</Output>
+      <Time>2013-04-13T16:43:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hpBar.png</Source>
+      <Name>hpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\hpBar.xnb</Output>
+      <Time>2013-04-13T16:48:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>paused.png</Source>
+      <Name>paused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\paused.xnb</Output>
+      <Time>2013-04-13T17:06:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>resume.png</Source>
+      <Name>resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\resume.xnb</Output>
+      <Time>2013-04-13T18:28:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>proceed.png</Source>
+      <Name>proceed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\proceed.xnb</Output>
+      <Time>2013-04-13T18:48:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>missionComplete.png</Source>
+      <Name>missionComplete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\missionComplete.xnb</Output>
+      <Time>2013-04-13T19:15:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu.png</Source>
+      <Name>mainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainMenu.xnb</Output>
+      <Time>2013-04-13T20:13:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>retry.png</Source>
+      <Name>retry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\retry.xnb</Output>
+      <Time>2013-04-13T20:13:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOverArt.png</Source>
+      <Name>gameOverArt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\gameOverArt.xnb</Output>
+      <Time>2013-04-14T15:39:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>missionBriefPng.png</Source>
+      <Name>missionBriefPng</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\missionBriefPng.xnb</Output>
+      <Time>2013-04-14T16:21:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>level2\dubaiCity.png</Source>
+      <Name>level2\dubaiCity</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\level2\dubaiCity.xnb</Output>
+      <Time>2013-04-14T16:41:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>level2\level2MainBgFinal.png</Source>
+      <Name>level2\level2MainBgFinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\level2\level2MainBgFinal.xnb</Output>
+      <Time>2013-04-14T17:19:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bossSample.png</Source>
+      <Name>bossSample</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\bossSample.xnb</Output>
+      <Time>2013-04-14T22:47:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bossAnimation.png</Source>
+      <Name>bossAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\bossAnimation.xnb</Output>
+      <Time>2013-04-15T01:18:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fireBall.png</Source>
+      <Name>fireBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\fireBall.xnb</Output>
+      <Time>2013-04-15T01:50:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>victoryArt.png</Source>
+      <Name>victoryArt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\victoryArt.xnb</Output>
+      <Time>2013-04-15T03:01:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu2.png</Source>
+      <Name>mainMenu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainMenu2.xnb</Output>
+      <Time>2013-04-15T03:03:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gunSound.wav</Source>
+      <Name>Sounds\gunSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\gunSound.xnb</Output>
+      <Time>2013-04-12T15:43:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\hitSound.wav</Source>
+      <Name>Sounds\hitSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\hitSound.xnb</Output>
+      <Time>2013-04-12T15:43:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ricochet\ricochet1.wav</Source>
+      <Name>Sounds\ricochet\ricochet1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\ricochet\ricochet1.xnb</Output>
+      <Time>2013-04-12T16:02:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ricochet\ricochet4.wav</Source>
+      <Name>Sounds\ricochet\ricochet4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\ricochet\ricochet4.xnb</Output>
+      <Time>2013-04-12T16:02:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Explode.wav</Source>
+      <Name>Sounds\Explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\Explode.xnb</Output>
+      <Time>2013-04-12T16:55:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\takingOff.wav</Source>
+      <Name>Sounds\takingOff</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\takingOff.xnb</Output>
+      <Time>2013-04-13T01:49:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\level1Sound.mp3</Source>
+      <Name>Sounds\level1Sound</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level1Sound.xnb</Output>
+      <Extra>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level1Sound.wma</Extra>
+      <Time>2013-04-12T17:56:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\mainMenuMusic.mp3</Source>
+      <Name>Sounds\mainMenuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\mainMenuMusic.xnb</Output>
+      <Extra>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\mainMenuMusic.wma</Extra>
+      <Time>2013-04-13T15:21:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\level2Sound.mp3</Source>
+      <Name>Sounds\level2Sound</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level2Sound.xnb</Output>
+      <Extra>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level2Sound.wma</Extra>
+      <Time>2013-04-13T18:02:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GameOver.mp3</Source>
+      <Name>Sounds\GameOver</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\GameOver.xnb</Output>
+      <Extra>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\GameOver.wma</Extra>
+      <Time>2013-04-14T15:48:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bossFight.mp3</Source>
+      <Name>Sounds\bossFight</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\bossFight.xnb</Output>
+      <Extra>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\bossFight.wma</Extra>
+      <Time>2013-04-15T03:37:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\victory.mp3</Source>
+      <Name>Sounds\victory</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\victory.xnb</Output>
+      <Extra>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\victory.wma</Extra>
+      <Time>2013-04-15T03:37:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2013-04-12T20:19:12+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombatContent\</RootDirectory>
+      <LoggerRootDirectory>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombatContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-04T23:04:19.0502303+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,152 @@
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\bin\x86\Debug\airCombat.exe
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\bin\x86\Debug\airCombat.pdb
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\obj\x86\Debug\airCombat.exe
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\obj\x86\Debug\airCombat.pdb
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\bin\x86\Debug\Content\enemyFinal.xnb
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\bin\x86\Debug\Content\glidingFinal.xnb
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeGoodSize.xnb
+D:\Rabi University\Introduction to Computer Graphics\Extra c++\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeFlying.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\enemyFinal.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\glidingFinal.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeGoodSize.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeFlying.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\airCombat.exe
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\airCombat.pdb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\airCombat.exe
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\airCombat.pdb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\enemySpriteUpdated.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\laser.xnb
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\enemyFinal.xnb
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\glidingFinal.xnb
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeGoodSize.xnb
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeFlying.xnb
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\enemySpriteUpdated.xnb
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\laser.xnb
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\airCombat.exe
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\airCombat.pdb
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\airCombat.exe
+F:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\airCombat.pdb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\cloud1.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\cloud2.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainBg.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\moon.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainBgUpdated.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\redLaser.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\purpleLaser.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\orangeLaser.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\bullet.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\gunSound.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\hitSound.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\ricochet\ricochet1.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\ricochet\ricochet4.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\explosion.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\Explode.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level1Sound.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level1Sound.wma
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\rain.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\gameFont.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainMenu.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\playJet.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainMenuArt.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\exitJet.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\OptionFinal.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\backOption.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\takingOff.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\mainMenuMusic.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\mainMenuMusic.wma
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\hpFrame.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\help.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\hpBar.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\paused.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level2Sound.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level2Sound.wma
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\resume.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\proceed.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\missionComplete.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\gameOverArt.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\retry.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\GameOver.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\GameOver.wma
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\missionBriefPng.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\level2\dubaiCity.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\level2\level2MainBgFinal.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\bossSample.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\bossAnimation.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\fireBall.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\victoryArt.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainMenu2.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\bossFight.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\victory.xnb
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\bossFight.wma
+D:\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\victory.wma
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\enemyFinal.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\glidingFinal.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeGoodSize.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\planeFlying.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\enemySpriteUpdated.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\laser.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainBg.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\cloud1.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\cloud2.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\moon.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainBgUpdated.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\redLaser.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\purpleLaser.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\orangeLaser.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\bullet.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\explosion.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\rain.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\playJet.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainMenuArt.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\exitJet.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\OptionFinal.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\backOption.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\help.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\hpFrame.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\hpBar.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\paused.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\resume.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\proceed.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\missionComplete.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainMenu.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\retry.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\gameOverArt.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\missionBriefPng.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\level2\dubaiCity.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\level2\level2MainBgFinal.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\bossSample.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\bossAnimation.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\fireBall.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\victoryArt.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\mainMenu2.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\gunSound.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\hitSound.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\ricochet\ricochet1.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\ricochet\ricochet4.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\Explode.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\takingOff.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level1Sound.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\mainMenuMusic.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level2Sound.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\GameOver.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\bossFight.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\victory.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\gameFont.xnb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level1Sound.wma
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\mainMenuMusic.wma
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\level2Sound.wma
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\GameOver.wma
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\bossFight.wma
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\Content\Sounds\victory.wma
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\airCombat.exe
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\bin\x86\Debug\airCombat.pdb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\airCombat.exe
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\airCombat.pdb
+C:\University backup\Rabi University\Introduction to Computer Graphics\XNA\airCombat\airCombat\airCombat\obj\x86\Debug\airCombat.csprojResolveAssemblyReference.cache
